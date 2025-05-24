@@ -1,5 +1,5 @@
 #youtube cmmment-8.py Usage
-    python "youtube cmmment-8.py"
+python "youtube cmmment-8.py"
 
 # youtube-comment-downloader
 Simple script for downloading Youtube comments without using the Youtube API. The output is in line delimited JSON.
